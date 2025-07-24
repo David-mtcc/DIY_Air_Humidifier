@@ -13,7 +13,6 @@ When the **humidity drops below a user-defined setpoint**, the system automatica
 - TM1637 4-digit 7-segment display
 - NPN transistor (e.g. 2N2222 or S8050)
 - 220Ω resistors (×2)
-- Red LED (used as an activity indicator)
 - [5V ultrasonic atomizer](https://www.amazon.de/-/en/Atomiser-Humidifier-Atomization-Integrated-Circuit/dp/B0946L91HL)
 - Breadboard & jumper wires
 - Power source (USB or 5V supply)
@@ -53,6 +52,8 @@ When the humidity drops below the setpoint, the **transistor activates**, poweri
 
 ## 📸 Project Preview
 Note: instead of the led, a 5V ultrasonic atomizer must be used.
+
+![Humidifier_schem](https://github.com/user-attachments/assets/2765fe07-f5ee-4a4f-bd23-e48256e7d0fb)
 
 ![Humidifier_bb](https://github.com/user-attachments/assets/4a53ee18-dd36-4d25-89b3-8075b9fe159c)
 
