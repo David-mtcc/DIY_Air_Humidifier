@@ -1,4 +1,4 @@
-# DIY Air Humidifier
+# 💧 DIY Air Humidifier
 This project is a simple **humidity-based controller** for a 5V ultrasonic humidifier, using an **Arduino Nano**, **DHT11 sensor**, **potentiometer**, **NPN transistor**, and a **TM1637 4-digit display**.
 
 When the **humidity drops below a user-defined setpoint**, the system automatically powers on the humidifier. The setpoint is adjusted via a potentiometer, and both the setpoint and current humidity are shown on the display.
